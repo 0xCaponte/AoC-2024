@@ -1,7 +1,0 @@
-
-Python zip():
-
-    I didnt know of this way to create a tuple so I can paralelly iterate over multiple iterable objects. Important to know that it stops putting things together as soon as one of the iterable objects is finished.
-
-    
-
